@@ -1,2 +1,2 @@
 # guarda-leapp
-Ti guarda il file di configurazione
+Watches your Leapp configuration file
