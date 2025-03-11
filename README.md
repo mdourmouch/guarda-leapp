@@ -1,5 +1,5 @@
 # guarda-leapp
-Watches your Leapp configuration file
+Import and export tool for Leapp configuration file
 
 ## Installation
 
@@ -12,7 +12,7 @@ npm install -g guarda-leapp
 $ guarda-leapp -h
 Usage: guarda-leapp [options] [command]
 
-Watches your Leapp configuration intensely
+Import and export tool for Leapp configuration file
 
 Options:
   -V, --version     output the version number

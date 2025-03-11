@@ -14,8 +14,8 @@ export interface ImportConfigurationOptions {
 }
 
 export const cli = commander.program
-    .description("Watches your Leapp configuration intensely")
-    .version("0.0.3");
+    .description("Import and export tool for Leapp configuration file")
+    .version("0.0.4");
 
 cli.command('export')
     .description('Export your Leapp configuration')
